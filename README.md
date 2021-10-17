@@ -1,7 +1,7 @@
 # UE4_EOS_Plugin
 
-EOS SDK : `v1.14`
-UnrealEngine : `4.27.0`
+EOS SDK : `v1.14`  
+UnrealEngine : `4.27.0`  
 
 ---
 ## Outdated README
